@@ -1,0 +1,10 @@
+.vs/
+.git/
+*.db
+*.db-shm
+*.db-wal
+*.wsuo
+README.md
+.gitignore
+.firebaserc
+firebase.json
