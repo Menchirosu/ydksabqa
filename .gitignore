@@ -1,0 +1,8 @@
+.vs/
+*.db
+*.db-shm
+*.db-wal
+*.wsuo
+*.vsidx
+.firebase/
+firebase-debug.log
